@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/seongju/.local/share/virtualenvs/KPCS-EDY7g9jt/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=91"
+    ],
+    "python.formatting.provider": "black"
+}
